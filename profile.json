@@ -1,0 +1,21 @@
+{
+    "acrylicOpacity" : 0.5,
+    "backgroundImage" : "ms-appdata:///roaming/sitecore-theme/Sitecore-Dark2.png",
+    "backgroundImageOpacity" : 0.80000001192092896,
+    "backgroundImageStretchMode" : "uniformToFill",
+    "closeOnExit" : true,
+    "colorScheme" : "Campbell",
+    "commandline" : "powershell.exe",
+    "cursorColor" : "#FFFFFF",
+    "cursorShape" : "bar",
+    "fontFace" : "Consolas",
+    "fontSize" : 10,
+    "guid" : "{0caa0dad-35be-5f56-a8ff-afceeeaa6102}",
+    "historySize" : 9001,
+    "icon" : "ms-appdata:///roaming/sitecore-theme/sitecore-icon.png",
+    "name" : "Sitecore",
+    "padding" : "0, 0, 0, 0",
+    "snapOnInput" : true,
+    "startingDirectory" : "%USERPROFILE%",
+    "useAcrylic" : false
+}
