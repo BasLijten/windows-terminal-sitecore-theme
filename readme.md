@@ -2,7 +2,7 @@
 
 Isn't this lovely?
 
-![Screenshot of sitecore Theme](.\resources\screenshot-1.png)
+![Screenshot of sitecore Theme](./resources/screenshot-1.png)
 
 This guide exists of 3 steps:
 
