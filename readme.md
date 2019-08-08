@@ -48,7 +48,7 @@ copy the snippet below and paste it at the end of the profiles array. Please not
     "historySize" : 9001,
     "icon" : "ms-appdata:///roaming/sitecore-theme/sitecore-icon.png",
     "name" : "Sitecore",
-    "padding" : "0, 0, 0, 0",
+    "padding" : "12, 12, 0, 0",
     "snapOnInput" : true,
     "startingDirectory" : "%USERPROFILE%",
     "useAcrylic" : false
@@ -61,5 +61,3 @@ Please note: all orignal work has been done in [this repository](https://github.
 
 1) Install posh-git ```Install-Module -Name posh-git -AllowPrerelease -Force```
 2) include this [powershell configuration](https://github.com/dracula/powershell/blob/master/theme/dracula-prompt-configuration.ps1) in your ```$profile```
-
-
