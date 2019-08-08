@@ -1,5 +1,9 @@
 # How to install the Sitecore theme
 
+Isn't this lovely?
+
+![Screenshot of sitecore Theme](.\resources\screenshot-1.png)
+
 This guide exists of 3 steps:
 
 1) Copy the required resources
@@ -50,3 +54,12 @@ copy the snippet below and paste it at the end of the profiles array. Please not
     "useAcrylic" : false
 }
 ```
+
+## 3 - update the prompt and colours
+
+Please note: all orignal work has been done in [this repository](https://github.com/dracula/powershell)
+
+1) Install posh-git ```Install-Module -Name posh-git -AllowPrerelease -Force```
+2) include this [powershell configuration](https://github.com/dracula/powershell/blob/master/theme/dracula-prompt-configuration.ps1) in your ```$profile```
+
+
